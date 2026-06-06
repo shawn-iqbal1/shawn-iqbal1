@@ -4,11 +4,8 @@
 🔭 **I’m currently working on**
 
 - **Multi‑Cloud Cost Optimization Dashboard** – Terraform + Python + Prometheus + Grafana  
-  → [multi-cloud-cost-dashboard](https://github.com/shawn-iqbal/multi-cloud-cost-dashboard)
 - **GitOps Pipeline with Canary Rollouts** – ArgoCD + Flagger + Helm + GitHub Actions  
-  → [gitops-canary-rollbacks](https://github.com/shawn-iqbal/gitops-canary-rollbacks)
 - **Self‑Service Internal Developer Platform (IDP) with Backstage** – Backstage + Kubernetes + Terraform  
-  → [internal-developer-platform-backstage](https://github.com/shawn-iqbal/internal-developer-platform-backstage)
 
 - 🌱 I’m currently learning **eBPF & Cilium – Advanced Kubernetes networking and observability - OpenTelemetry – Collector configuration and custom instrumentation - Chaos Engineering– LitmusChaos and Gremlin for resilience testing - FinOps – Cloud cost optimization strategies and tools**
 
