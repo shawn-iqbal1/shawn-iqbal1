@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋, I'm Shawn Iqbal</h1>
 <h3 align="center">A passionate Senior DevOps Engineer from California USA</h3>
 
+🔭 **I’m currently working on**
+
+- **Multi‑Cloud Cost Optimization Dashboard** – Terraform + Python + Prometheus + Grafana  
+  → [multi-cloud-cost-dashboard](https://github.com/shawn-iqbal/multi-cloud-cost-dashboard)
+- **GitOps Pipeline with Canary Rollouts** – ArgoCD + Flagger + Helm + GitHub Actions  
+  → [gitops-canary-rollbacks](https://github.com/shawn-iqbal/gitops-canary-rollbacks)
+- **Self‑Service Internal Developer Platform (IDP) with Backstage** – Backstage + Kubernetes + Terraform  
+  → [internal-developer-platform-backstage](https://github.com/shawn-iqbal/internal-developer-platform-backstage)
+
 - 🌱 I’m currently learning **eBPF & Cilium – Advanced Kubernetes networking and observability - OpenTelemetry – Collector configuration and custom instrumentation - Chaos Engineering– LitmusChaos and Gremlin for resilience testing - FinOps – Cloud cost optimization strategies and tools**
 
 - 👯 I’m looking to collaborate on **Open Source SRE Tooling – Prometheus exporters, Kubernetes operators, Terraform providers**
 
 - 🤝 I’m looking for help with **eBPF Network Observability – Building custom Hubble metrics for Cilium**
 
-- 💬 Ask me about ****Kubernetes** (EKS, AKS, GKE), **Terraform**, **ArgoCD**, **Prometheus + Grafana**, **CI/CD pipelines** (GitHub Actions, Jenkins), **Service Mesh** (Istio, Linkerd), **DevSecOps** (Vault, OPA, Trivy)**
+- 💬 Ask me about **Kubernetes** (EKS, AKS, GKE), **Terraform**, **ArgoCD**, **Prometheus + Grafana**, **CI/CD pipelines** (GitHub Actions, Jenkins), **Service Mesh** (Istio, Linkerd), **DevSecOps** (Vault, OPA, Trivy)
 
 - 📫 How to reach me **shawn.iqbal18@gmail.com**
 
